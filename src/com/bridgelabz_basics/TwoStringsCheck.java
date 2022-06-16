@@ -1,6 +1,6 @@
 //1.3 Write a program to check two strings are equal or not.
 
-package com.bridgelabz;
+package com.bridgelabz_basics;
 
 public class TwoStringsCheck {
     public static void main(String args[]) {

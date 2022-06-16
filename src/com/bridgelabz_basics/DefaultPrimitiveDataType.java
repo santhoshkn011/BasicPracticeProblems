@@ -1,6 +1,6 @@
 //1.2 Write a Java program to display the default value of all primitive data types of Java
 
-package com.bridgelabz;
+package com.bridgelabz_basics;
 
 public class DefaultPrimitiveDataType {
     //declaring static variables

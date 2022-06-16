@@ -1,6 +1,6 @@
 //1.5 To get the name using the command line.
 
-package com.bridgelabz;
+package com.bridgelabz_basics;
 import java.util.Scanner;  //Importing the Scanner method for the user input
 
 public class UserInput {

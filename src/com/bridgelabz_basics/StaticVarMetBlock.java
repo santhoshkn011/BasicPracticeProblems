@@ -1,6 +1,6 @@
 //1.6 Write a program to demonstrate static variables, methods, and blocks.
 
-package com.bridgelabz;
+package com.bridgelabz_basics;
 
 public class StaticVarMetBlock {
 

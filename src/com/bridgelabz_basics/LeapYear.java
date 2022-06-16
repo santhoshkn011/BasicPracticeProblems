@@ -5,7 +5,7 @@
    For e.g. 1800 is not a Leap Year and 2000 is a Leap Year.
  */
 
-package com.bridgelabz;
+package com.bridgelabz_basics;
 import java.util.*; //importing utility method for the user input.
 
 public class LeapYear {
