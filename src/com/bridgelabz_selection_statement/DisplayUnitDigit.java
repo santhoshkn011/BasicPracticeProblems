@@ -1,7 +1,7 @@
 //2. Read a Number 1,10,100,1000 and display unit, ten hundred
 
 package com.bridgelabz_selection_statement;
-import java.util.Scanner;
+import java.util.Scanner; //imported scanner method
 
 public class DisplayUnitDigit {
     public static void main(String[] args) {
